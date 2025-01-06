@@ -1,3 +1,13 @@
+## 定期更新原作者的代码
+
+```git
+git remote add upstream https://github.com/langgenius/dify.git
+git checkout main
+git fetch upstream
+git merge upstream/main
+```
+
+
 ![cover-v5-optimized](https://github.com/langgenius/dify/assets/13230914/f9e19af5-61ba-4119-b926-d10c4c06ebab)
 
 <div align="center">
